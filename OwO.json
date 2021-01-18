@@ -10,7 +10,7 @@
 	"text": "QQ-1",
 	"icon": "<img src='https://cdn.jsdelivr.net/gh/Dreamy-TZK/iemotion-pic@latest/img/QQ/1.gif'>"
       },
-	  {
+      {
 	"text": "QQ-2",
 	"icon": "<img src='https://cdn.jsdelivr.net/gh/Dreamy-TZK/iemotion-pic@latest/img/QQ/2.gif'>"
       },
@@ -26,7 +26,7 @@
 	"text": "QQ-5",
 	"icon": "<img src='https://cdn.jsdelivr.net/gh/Dreamy-TZK/iemotion-pic@latest/img/QQ/5.gif'>"
       },
-	  {
+      {
 	"text": "QQ-6",
 	"icon": "<img src='https://cdn.jsdelivr.net/gh/Dreamy-TZK/iemotion-pic@latest/img/QQ/6.gif'>"
       },
@@ -44,7 +44,7 @@
       },
       {
 	"text": "QQ-10",
-    "icon": "<img src='https://cdn.jsdelivr.net/gh/Dreamy-TZK/iemotion-pic@latest/img/QQ/10.gif'>"
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/Dreamy-TZK/iemotion-pic@latest/img/QQ/10.gif'>"
       },
       {
 	"text": "QQ-11",
@@ -401,7 +401,7 @@
       {
 	"text": "QQ-99",
 	"icon": "<img src='https://cdn.jsdelivr.net/gh/Dreamy-TZK/iemotion-pic@latest/img/QQ/99.gif'>"
-      }
+      },
       {
 	"text": "QQ-100",
 	"icon": "<img src='https://cdn.jsdelivr.net/gh/Dreamy-TZK/iemotion-pic@latest/img/QQ/100.gif'>"
