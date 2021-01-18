@@ -3841,6 +3841,199 @@
       }
     ]
   },
+  "滑稽":{
+    "type":"image",
+    "container":[
+      {
+        "text":"huaji1",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-1.jpg>"
+      },
+      {
+        "text":"huaji2",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-2.jpg>"
+      },
+      {
+        "text":"huaji3",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-3.jpg>"
+      },
+      {
+        "text":"huaji4",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-4.jpg>"
+      },
+      {
+        "text":"huaji5",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-5.jpg>"
+      },
+      {
+        "text":"huaji6",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-6.jpg>"
+      },
+      {
+        "text":"huaji7",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-7.jpg>"
+      },
+      {
+        "text":"huaji8",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-8.jpg>"
+      },
+      {
+        "text":"huaji9",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-9.jpg>"
+      },
+      {
+        "text":"huaji10",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-10.jpg>"
+      },
+      {
+        "text":"huaji11",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-11.jpg>"
+      },
+      {
+        "text":"huaji12",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-12.jpg>"
+      },
+      {
+        "text":"huaji13",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-13.jpg>"
+      },
+      {
+        "text":"huaji14",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-14.jpg>"
+      },
+      {
+        "text":"huaji15",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-15.jpg>"
+      },
+      {
+        "text":"huaji16",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-16.jpg>"
+      },
+      {
+        "text":"huaji17",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-17.jpg>"
+      },
+      {
+        "text":"huaji18",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-18.jpg>"
+      },
+      {
+        "text":"huaji19",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-19.jpg>"
+      },
+      {
+        "text":"huaji20",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-20.jpg>"
+      },
+      {
+        "text":"huaji21",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-21.jpg>"
+      },
+      {
+        "text":"huaji22",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-22.jpg>"
+      },
+      {
+        "text":"huaji23",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-23.jpg>"
+      },
+      {
+        "text":"huaji24",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-24.jpg>"
+      },
+      {
+        "text":"huaji25",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-25.jpg>"
+      },
+      {
+        "text":"huaji26",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-26.jpg>"
+      },
+      {
+        "text":"huaji27",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-27.jpg>"
+      },
+      {
+        "text":"huaji28",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-28.jpg>"
+      },
+      {
+        "text":"huaji29",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-29.jpg>"
+      },
+      {
+        "text":"huaji30",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-30.jpg>"
+      },
+      {
+        "text":"huaji31",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-31.jpg>"
+      },
+      {
+        "text":"huaji32",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-32.jpg>"
+      },
+      {
+        "text":"huaji33",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-33.jpg>"
+      },
+      {
+        "text":"huaji34",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-34.jpg>"
+      },
+      {
+        "text":"huaji35",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-35.jpg>"
+      },
+      {
+        "text":"huaji36",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-36.jpg>"
+      },
+      {
+        "text":"huaji37",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-37.jpg>"
+      },
+      {
+        "text":"huaji38",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-38.jpg>"
+      },
+      {
+        "text":"huaji39",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-39.jpg>"
+      },
+      {
+        "text":"huaji40",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-40.jpg>"
+      },
+      {
+        "text":"huaji41",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-41.jpg>"
+      },
+      {
+        "text":"huaji42",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-42.jpg>"
+      },
+      {
+        "text":"huaji43",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-43.jpg>"
+      },
+      {
+        "text":"huaji44",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-44.jpg>"
+      },
+      {
+        "text":"huaji45",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-45.jpg>"
+      },
+      {
+        "text":"huaji46",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-46.jpg>"
+      },
+      {
+        "text":"huaji47",
+        "icon":"<img src=https://cdn.jsdelivr.net/gh/hanxea/blog/huaji/huaji-47.jpg>"
+      }
+    ]
+  },
 "bilibili tv": {
 	"type":"image",
 	"container": [{
